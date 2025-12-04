@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Kief
+# 👋 Hi there! I'm wh1mp1337
 
 I'm a full-stack software developer with a passion for building cool projects and diving into the world of reverse engineering.
 
@@ -17,5 +17,5 @@ I own the following domains:
 
 
 ## 📫 How to Reach Me:
--   Discord: kief57777
+-   Discord: wh1mp1337
 -   Email: contact@backcode.ro
